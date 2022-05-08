@@ -1,2 +1,2 @@
 # go-Microservices
-This is GO based microservice project. 
+This is GO based microservices project. 
